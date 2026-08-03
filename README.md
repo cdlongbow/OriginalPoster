@@ -11,7 +11,7 @@
 | 简繁区分（尝鲜版） | 简体中文（zh-CN）优先于繁体中文（zh-TW/zh-HK）非精确，仅限尝鲜，勿喷 |
 | season00-poster 支持 | 特别篇（Specials）剧集自动适配 `season00-poster.jpg` 命名规范，兼容 Plex 等刮削工具的图片文件 |
 | 零配置 | 无需 TMDB API Key，复用 Emby 内置 MovieDb 提供者 |
-| 全类型支持 | 电影 / 剧集 / 播出季 / 单集 / 合集 |
+| 全类型支持 | 电影 / 剧集 / 播出季 / 单集 |
 
 ## 编译
 
